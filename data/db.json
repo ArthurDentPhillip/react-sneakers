@@ -1,0 +1,314 @@
+{
+  "items": [
+    {
+      "title": "microchip",
+      "price": "2000",
+      "img": "img/sneakers/1.jpg",
+      "id": "1"
+    },
+    {
+      "title": "amongst",
+      "price": "3000",
+      "img": "img/sneakers/2.jpg",
+      "id": "2"
+    },
+    {
+      "title": "atheist",
+      "price": "5000",
+      "img": "img/sneakers/3.jpg",
+      "id": "3"
+    },
+    {
+      "title": "magenta",
+      "price": "1500",
+      "img": "img/sneakers/4.jpg",
+      "id": "4"
+    },
+    {
+      "title": "nisi",
+      "price": "500",
+      "img": "img/sneakers/5.jpg",
+      "id": "5"
+    },
+    {
+      "title": "Hawaii",
+      "price": "6000",
+      "img": "img/sneakers/6.jpg",
+      "id": "6"
+    }
+  ],
+  "cart": [],
+  "favorites": [],
+  "orders": [
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "1": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "id": "bd73"
+    },
+    {
+      "0": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "id": "1961"
+    },
+    {
+      "0": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "1": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "id": "a32f"
+    },
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "1": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "id": "7dc0"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "1": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "id": "cbc8"
+    },
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "1": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "id": "96cb"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "1": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "5809"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "3f6e"
+    },
+    {
+      "id": "1043"
+    },
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "1": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "2": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "71ae"
+    },
+    {
+      "0": {
+        "id": "4",
+        "title": "magenta",
+        "price": "1500",
+        "img": "img/sneakers/4.jpg"
+      },
+      "id": "10b6"
+    },
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "id": "d894"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "1": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "60b9"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "8627"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "00f6"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "1a21"
+    },
+    {
+      "0": {
+        "id": "3",
+        "title": "atheist",
+        "price": "5000",
+        "img": "img/sneakers/3.jpg"
+      },
+      "id": "d306"
+    },
+    {
+      "id": "0d10"
+    },
+    {
+      "0": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "e139"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "1": {
+        "id": "2",
+        "title": "amongst",
+        "price": "3000",
+        "img": "img/sneakers/2.jpg"
+      },
+      "id": "60a1"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "id": "0119"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "id": "0567"
+    },
+    {
+      "id": "cf66"
+    },
+    {
+      "id": "3859"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "id": "2f54"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "microchip",
+        "price": "2000",
+        "img": "img/sneakers/1.jpg"
+      },
+      "id": "21e8"
+    }
+  ]
+}
